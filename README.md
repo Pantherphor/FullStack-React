@@ -3,4 +3,9 @@ Application technical stack
 - Express
 - Heroku
 - Google OAuth
-- Stripe  
+- Passport JS
+- MangoDB
+- Stripe
+
+-- Packages
+   o Nodemon  
