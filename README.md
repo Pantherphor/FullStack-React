@@ -1,11 +1,20 @@
 Application technical stack 
 
+Server
 - Express
-- Heroku
-- Google OAuth
-- Passport JS
-- MangoDB
-- Stripe
+
+-- Hosting
+  o AWS
+  o Heroku
+
+-- Databases
+  o MongoDB
+
+-- APIs
+  o Google OAuth
+  o Stripe
 
 -- Packages
-   o Nodemon  
+   o Nodemon
+   o Passport JS
+   o Mangoose JS  
