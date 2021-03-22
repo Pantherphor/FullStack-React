@@ -1,22 +1,22 @@
-Application technical stack 
+# Application technical stack 
 
-Server
-- Express
+## Server
+### Express
 
--- Hosting
-  o AWS
-  o Heroku
+#### Hosting
+  * AWS
+  * Heroku
 
--- Databases
-  o MongoDB
+#### Databases
+  * MongoDB
 
--- APIs
-  o Google OAuth
-  o Stripe
+#### APIs
+  * Google OAuth
+  * Stripe
 
--- Packages
-   o Nodemon
-   o Passport JS
-   o Mangoose JS
-   o cookie-session  
-   o Concurrently
+#### Packages
+   * Nodemon
+   * Passport JS
+   * Mangoose JS
+   * cookie-session  
+   * Concurrently
